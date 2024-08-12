@@ -1,0 +1,88 @@
+{C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_task3
+
+Top level modules:
+	tb_task3
+
+} {} {}} {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task1.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task1
+-- Compiling module ram
+-- Compiling module reg_en8
+-- Compiling module DAR
+-- Compiling module ireg
+-- Compiling module idecoder
+-- Compiling module datapath
+-- Compiling module writeback_mux
+-- Compiling module regfile
+-- Compiling module reg_en
+-- Compiling module shifter
+-- Compiling module mux_A
+-- Compiling module mux_B
+-- Compiling module ALU
+-- Compiling module controller
+
+Top level modules:
+	task1
+	writeback_mux
+
+} {} {}} {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task2
+-- Compiling module ram
+-- Compiling module reg_en8
+-- Compiling module DAR
+-- Compiling module ireg
+-- Compiling module idecoder
+-- Compiling module datapath
+-- Compiling module writeback_mux
+-- Compiling module regfile
+-- Compiling module reg_en
+-- Compiling module shifter
+-- Compiling module mux_A
+-- Compiling module mux_B
+-- Compiling module ALU
+-- Compiling module controller
+
+Top level modules:
+	task2
+	writeback_mux
+
+} {} {}} {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task1.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_task1
+
+Top level modules:
+	tb_task1
+
+} {} {}} {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task3.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task3
+-- Compiling module ram
+-- Compiling module reg_en8
+-- Compiling module DAR
+-- Compiling module ireg
+-- Compiling module idecoder
+-- Compiling module datapath
+-- Compiling module writeback_mux
+-- Compiling module regfile
+-- Compiling module reg_en
+-- Compiling module shifter
+-- Compiling module mux_A
+-- Compiling module mux_B
+-- Compiling module ALU
+-- Compiling module controller
+
+Top level modules:
+	task3
+	writeback_mux
+
+} {} {}} {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_task2
+
+Top level modules:
+	tb_task2
+
+} {} {}}

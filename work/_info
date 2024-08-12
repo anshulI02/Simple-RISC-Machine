@@ -1,0 +1,494 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1670117915
+!i10b 1
+!s100 kB9L5i<Q:SX6SnQ@:C8S53
+I=^02YPn6T;IaWWl9d`RJQ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 task3_sv_unit
+S1
+Z4 dC:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7
+Z5 w1670117728
+Z6 8C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task3.sv
+Z7 FC:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task3.sv
+L0 200
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1670117915.000000
+Z10 !s107 C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task3.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task3.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+n@a@l@u
+vcontroller
+R0
+R1
+!i10b 1
+!s100 ]K8CTCXlTM=aIWCzZbIiL0
+Ih0ohGzfbIIaPI]Xkm9>a]0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 216
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vDAR
+R0
+R1
+!i10b 1
+!s100 jhm?K9mBzQA23dTUEQH9`0
+IFg6F1d8L41B;mWkBAI3YO3
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 67
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@d@a@r
+vdatapath
+R0
+R1
+!i10b 1
+!s100 Se<VcJ]H_]BRiYXRFoQKo2
+ILBoDFL?Le]j_Y_Y3L0SHJ1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 110
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+videcoder
+R0
+R1
+!i10b 1
+!s100 CZR20ThSKJJ_3mZO5Hij?0
+I6EdAQ8JJ0dT[97nY^l;>]1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 84
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vireg
+R0
+R1
+!i10b 1
+!s100 VB_k]NeOB@eHPzPJPi@<m2
+ISlG^2afDTHdIll6_dQj^G0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 76
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vmux_A
+R0
+R1
+!i10b 1
+!s100 V:DiR_Q5T_eZMzzZ9?X8N2
+IDohi[on7EHA;RQa73ffzn2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 192
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+nmux_@a
+vmux_B
+R0
+R1
+!i10b 1
+!s100 aTD`ak?bJQZmKcAz>?lGd3
+IdLIJTUk7JjTVR`=;9>8I:2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 196
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+nmux_@b
+vram
+R0
+R1
+!i10b 1
+!s100 i1MWIhb?T5cVH7bbWm2]l2
+ImnMT=eTWEho3V>MXA7XLY3
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 48
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vreg_en
+R0
+R1
+!i10b 1
+!s100 Dd?Yz<6ENQOkHFRWD[N0N1
+I=aadC5:CNbh:NgAN394@V2
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 169
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vreg_en8
+R0
+R1
+!i10b 1
+!s100 i@EUikhN67zJ>;no_]2G@2
+Im3WNacm7MS1>1em1PlaR@1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 59
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vregfile
+R0
+R1
+!i10b 1
+!s100 I3h;zM_9:89:U[;G6eOER3
+IiLRB_Xj@YiQ@iA@NeE2bX0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 163
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vshifter
+R0
+R1
+!i10b 1
+!s100 H4jgWjiK4<bjQHYZ9UKR>3
+IgH^hXMLeAL?V3>F@:=Rd93
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 177
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vtask1
+R0
+R1
+!i10b 1
+!s100 N1TPY77f[fbz0H_;Ud6db2
+IClZ0QHz?60N2l;Nj?kV;U1
+R2
+!s105 task1_sv_unit
+S1
+R4
+R5
+8C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task1.sv
+FC:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task1.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task1.sv|
+!i113 1
+R12
+R13
+vtask2
+R0
+R1
+!i10b 1
+!s100 ;C9DAi:5PXI]VCZ]LdzX^2
+IXV7ogLeX::E`a84_fI97C0
+R2
+!s105 task2_sv_unit
+S1
+R4
+R5
+8C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task2.sv
+FC:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task2.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/task2.sv|
+!i113 1
+R12
+R13
+vtask3
+R0
+R1
+!i10b 1
+!s100 IPLQ;gzAf[[BShF:Z7PG@3
+IaUTcB9egRiD??JgXUIL7Q1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vtb_task1
+R0
+R1
+!i10b 1
+!s100 8Q>H32kU_<l1fQ6zoVL4U1
+Ic@L9aI0FRXfBGz2h0f:>B3
+R2
+!s105 tb_task1_sv_unit
+S1
+R4
+R5
+8C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task1.sv
+FC:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task1.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task1.sv|
+!i113 1
+R12
+R13
+vtb_task2
+R0
+R1
+!i10b 1
+!s100 eAJJ50Ei:UTo9Oo>J;8Mz3
+IeK_:``;0Ma_WF<i3[;QfK2
+R2
+!s105 tb_task2_sv_unit
+S1
+R4
+R5
+8C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task2.sv
+FC:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task2.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task2.sv|
+!i113 1
+R12
+R13
+vtb_task3
+R0
+R1
+!i10b 1
+!s100 T49AWPnO2LBC<7oMLC@R13
+IAbIfN4_DkShVV8L]z6Z9[3
+R2
+!s105 tb_task3_sv_unit
+S1
+R4
+R5
+8C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task3.sv
+FC:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task3.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/3rd Year/2022W Term 1/Cpen 211/Labs/Lab 7/tb_task3.sv|
+!i113 1
+R12
+R13
+vwriteback_mux
+R0
+R1
+!i10b 1
+!s100 4=VkEPgT];_QcIO5a9bNC3
+If^gRB<ddocQOKceeM`HJH3
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 150
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
